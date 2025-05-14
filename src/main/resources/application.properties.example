@@ -1,0 +1,5 @@
+server.port=5455
+jwt.secret=REPLACE_WITH_SECRET
+spring.datasource.url=jdbc:mysql://localhost:3306/fuellytics_db
+spring.datasource.username=YOUR_DB_USERNAME
+spring.datasource.password=YOUR_DB_PASSWORD
